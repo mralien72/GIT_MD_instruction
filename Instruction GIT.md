@@ -29,3 +29,7 @@ text test for lesson2 branch master
 text test for lesson2 branch master
 text test for lesson2 branch master
 text test for lesson2 branch master
+test text add lesson 2
+test text add lesson 2
+test text add lesson 2
+test text add lesson 2

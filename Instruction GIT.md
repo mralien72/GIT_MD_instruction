@@ -25,11 +25,6 @@
 10. **git merge _"name"_** - слияние этой ветки с master.
 
 
-text test for lesson2 branch master
-text test for lesson2 branch master
-text test for lesson2 branch master
-text test for lesson2 branch master
-test text add lesson 2
-test text add lesson 2
-test text add lesson 2
-test text add lesson 2
+Продолжить работу с файлом, которую начали на семинаре. Создать и слить
+как минимум 4 ветки, обязательно создать конфликт и разрешить его.
+Приложить свой проект в заархивированном виде (всю папку целиком).

@@ -25,11 +25,29 @@
 10. **git merge _"name"_** - слияние этой ветки с master.
 
 
-text test for lesson2 branch master
-text test for lesson2 branch master
-text test for lesson2 branch master
-text test for lesson2 branch master
-test text add lesson 2
-test text add lesson 2
-test text add lesson 2
-test text add lesson 2
+
+
+
+
+
+
+
+
+
+
+
+
+Синтаксис языка Markdown
+Введение в контроль версий. Работа с Git. Составление инструкции по работе с Git.
+Справочник по Markdown от Microsoft:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+✦ # Заголовок – выделение заголовков. Количество символов “#” задаёт уровень заголовка
+(поддерживается 6 уровней).
+✦ = или - – подчёркиванием этими символами (не менее 3 подряд) выделяют заголовки первого
+(“=”) и второго (“-”) уровней.
+✦ ** Полужирное начертание** или __ Полужирное начертание__
+✦ *Курсивное начертание* или _Курсивное начертание_
+✦ ***Полужирное курсивное начертание***
+✦ ~~Зачёркнутый текст~~
+✦ * Строка – ненумерованные списки, символ “*” в начале строки
+✦ 1, 2, 3 … – нумерованные списки

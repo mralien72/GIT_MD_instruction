@@ -25,6 +25,16 @@
 10. **git merge _"name"_** - слияние этой ветки с master.
 
 
+
+
+
+
+
+
+
+
+
+
 text test for lesson2 branch master
 text test for lesson2 branch master
 text test for lesson2 branch master
